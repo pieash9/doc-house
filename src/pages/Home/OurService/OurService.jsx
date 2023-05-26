@@ -29,7 +29,7 @@ const OurService = () => {
             </TabList>
 
             <TabPanel>
-              <div className="card w-full bg-base-100 shadow-xl mt-10">
+              <div className="card w-full bg-base-100 shadow-xl mt-10 p-4">
                 <figure>
                   <img className="w-full" src={teethImg} alt="teeth" />
                 </figure>
@@ -58,7 +58,7 @@ const OurService = () => {
               </div>
             </TabPanel>
             <TabPanel>
-              <div className="card w-full bg-base-100 shadow-xl mt-10">
+              <div className="card w-full bg-base-100 shadow-xl mt-10 p-4">
                 <figure>
                   <img className="w-full" src={teethImg} alt="teeth" />
                 </figure>
@@ -87,7 +87,7 @@ const OurService = () => {
               </div>
             </TabPanel>
             <TabPanel>
-              <div className="card w-full bg-base-100 shadow-xl mt-10">
+              <div className="card w-full bg-base-100 shadow-xl mt-10 p-4">
                 <figure>
                   <img className="w-full" src={teethImg} alt="teeth" />
                 </figure>
