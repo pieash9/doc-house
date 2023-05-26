@@ -4,7 +4,7 @@ import img3 from "../../../assets/home/doctor3.png";
 
 const Banner = () => {
   return (
-    <div className="bg-[#07332F] h-[600px]">
+    <section className="bg-[#07332F] h-[600px]">
       <div className="flex w-full h-full items-center">
         <div className="md:w-1/2 text-white flex flex-col md:ml-20 space-y-5">
           <h3 className="text-7xl ">Your Best Medical Help Center</h3>
@@ -26,7 +26,7 @@ const Banner = () => {
           <img className="w-56 z-10 md:-top-10 md:avatar" src={img2} alt="" />
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

@@ -1,0 +1,32 @@
+[
+    {
+      "_id": "abcdef123456",
+      "name": "Dr. John Doe",
+      "designation": "Cardiologist",
+      "rating": 4.7,
+      "location": "City Hospital",
+      "availableDate": "2023-06-01",
+      "price": 150,
+      "image": "https://i.ibb.co/sb26vq4/Rectangle-15-1.png"
+    },
+    {
+      "_id": "ghijkl789012",
+      "name": "Dr. Jane Smith",
+      "designation": "Dermatologist",
+      "rating": 4.5,
+      "location": "Skin Care Clinic",
+      "availableDate": "2023-05-28",
+      "price": 200,
+      "image": "https://i.ibb.co/jvnFNbj/Rectangle-15-2.png"
+    },
+    {
+      "_id": "mnopqr345678",
+      "name": "Dr. Robert Johnson",
+      "designation": "Neurologist",
+      "rating": 4.9,
+      "location": "Brain Center",
+      "availableDate": "2023-06-05",
+      "price": 180,
+      "image": "https://i.ibb.co/XpypLmc/Rectangle-15.png"
+    }
+  ]
